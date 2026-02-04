@@ -1,5 +1,6 @@
-*.csv
+
 *.pkl
 __pycache__/
 .streamlit/
 .ipynb_checkpoints/
+
