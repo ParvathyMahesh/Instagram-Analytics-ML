@@ -70,6 +70,10 @@ Users can input post metrics such as:
 - 🟡 Average Engagement
 - 🟢 High Engagement
 
+## 🖥 Streamlit Dashboard Preview
+
+![Instagram Analytics Dashboard](assets/streamlit_dashboard.png)
+
 ---
 
 ## ▶️ Run the Application Locally
@@ -77,3 +81,4 @@ Users can input post metrics such as:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
